@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcky.Async", "Funcky.Async\Funcky.Async.csproj", "{53622D70-6A82-455E-B1E9-FAAFEAB25A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcky.Async.Test", "Funcky.Async.Test\Funcky.Async.Test.csproj", "{8A4DA322-1345-4B92-8F28-5E88F2E97234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53622D70-6A82-455E-B1E9-FAAFEAB25A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53622D70-6A82-455E-B1E9-FAAFEAB25A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53622D70-6A82-455E-B1E9-FAAFEAB25A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53622D70-6A82-455E-B1E9-FAAFEAB25A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4DA322-1345-4B92-8F28-5E88F2E97234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4DA322-1345-4B92-8F28-5E88F2E97234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4DA322-1345-4B92-8F28-5E88F2E97234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4DA322-1345-4B92-8F28-5E88F2E97234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
