@@ -5,6 +5,6 @@
         <WarningsAsErrors>$(WarningsAsErrors);nullable</WarningsAsErrors>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Funcky" Version="2.3.0"/>
+        <PackageReference Include="Funcky" Version="2.3.0" />
     </ItemGroup>
 </Project>
